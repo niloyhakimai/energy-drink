@@ -69,8 +69,8 @@ export function Hero() {
             <motion.img 
                 animate={{ y: [-20, 20, -20], rotate: [0, 5, -5, 0] }}
                 transition={{ duration: 6, repeat: Infinity, ease: "easeInOut" }}
-                // একটি রিয়ালিস্টিক ক্যানের ইমেজ
-                src="https://i.ibb.co.com/cKQLHk7s/112605-removebg-preview.png" 
+               
+                src="https://i.ibb.co.com/cVHXdws/volt-energy-design-3-removebg-preview.png" 
                 alt="Voltage Energy Drink"
                 className="w-full h-full object-contain drop-shadow-[0_0_60px_rgba(234,88,12,0.5)] z-20"
             />
